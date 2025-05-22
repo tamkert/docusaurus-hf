@@ -133,6 +133,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/tutorials/intro',
               },
+              {
+                label: 'Guides',
+                to: '/docs/guides/installation-guide',
+              },
             ],
           },
           {
@@ -155,10 +159,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',

@@ -16,3 +16,6 @@ lorem ipsum... *lorem ipsum...* `lorem ipsum...`
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+## Ez egy új alcím.
+Ez pedig egy új sor.
