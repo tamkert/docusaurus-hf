@@ -5,4 +5,4 @@ sidebar_position: 1
 
 # Telepítési útmutató
 
-ide írjuk majd továbbiakat...
+Ide írjuk majd továbbiakat, részletes útmutató fog készülni a telepítés menetéről.
