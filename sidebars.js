@@ -23,6 +23,7 @@ const sidebars = {
       dirName: 'guides',
     },
   ],
+  myApiSidebar: [require('./docs/petstore/sidebar')],
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
